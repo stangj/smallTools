@@ -1,1 +1,1 @@
- checkResources  可快速查询CPU、内存、IO、进程、网卡信息
+checkResources  可快速查询CPU、内存、IO、进程、网卡信息   #使用方法见  https://www.stangj.com/
